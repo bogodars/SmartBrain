@@ -3,10 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "aws-amplify": "^1.1.26",
+    "aws-amplify": "^6.15.6",
     "aws-amplify-react": "^2.3.6",
     "canvas": "^2.5.0",
-    "clarifai": "^2.9.0",
+    "clarifai": "^2.9.1",
     "cors": "^2.8.5",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
